@@ -1,3 +1,16 @@
+# 웹카페 실습
+
+### 5월 2일
+- 스타일 시트 연결 (css 파일 2개)
+- main.css
+- HTML 기본 구조 (헤더..푸터까지 5단 구조)
+- width, inline-size (논리특성)
+- border, padding, margin (기본 박스모델)
+- 선택자 그룹핑 (선택자와 선택자 사이는 ,로)
+- CSS 변수 (Custom Property)
+- 플렉스 박스 기초
+
+
 ###### EUID ╳ Likelion
 
 # 웹카페(Basic)
